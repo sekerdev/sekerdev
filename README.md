@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gluck
+- 👋 Hi, I’m Glück
 - 👀 I’m interested in learning (foreign & programming) languages
 - 🌱 I’m currently learning cpp
 - 💞️ Gotta be Geek!!
