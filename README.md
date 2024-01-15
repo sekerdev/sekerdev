@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sheker
+- 👋 Hi, I’m Gluck
 - 👀 I’m interested in learning (foreign & programming) languages
 - 🌱 I’m currently learning cpp
 - 💞️ Gotta be Geek!!
