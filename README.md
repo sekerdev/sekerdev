@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Glück
-- 👀 I’m interested in learning (foreign & programming) languages
-- 🌱 I’m currently learning cpp
+- 👋 Hi there, I’m Glück.
+- 👀 I’m interested in learning (foreign & programming) languages.
+- 🌱 I’m currently learning C++ (from videos).
+- ✨ I'll try to do my best!
 - 💞️ Gotta be Geek!!
 
 <!---
